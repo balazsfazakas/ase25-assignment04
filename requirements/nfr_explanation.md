@@ -1,0 +1,1 @@
+The search feature is intuitive because it prompts the user to enter exactly what the user wants to search for. The search is kept simple by only allowing to search by one characteristic (i.e. category or name) at a time.
